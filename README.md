@@ -1,4 +1,7 @@
 # Seleksi 1 Lab. Basis Data 2023
+![Valorant Champions Tour](Data%20Visualization/Valorant%20Champions%20Tour.png)
+[Insight](Data%20Visualization)
+
 ## Description of The Data and DBMS
 PostgreSQL is the chosen Database Management System (DBMS) to store and manage the scraped Valorant esports data. PostgreSQL is a powerful, open-source, and highly reliable relational database system that supports advanced features.
 
